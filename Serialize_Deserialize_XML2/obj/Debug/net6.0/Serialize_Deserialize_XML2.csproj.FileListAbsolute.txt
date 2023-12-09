@@ -1,0 +1,5 @@
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML2\obj\Debug\net6.0\Serialize_Deserialize_XML2.csproj.AssemblyReference.cache
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML2\obj\Debug\net6.0\Serialize_Deserialize_XML2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML2\obj\Debug\net6.0\Serialize_Deserialize_XML2.AssemblyInfoInputs.cache
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML2\obj\Debug\net6.0\Serialize_Deserialize_XML2.AssemblyInfo.cs
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML2\obj\Debug\net6.0\Serialize_Deserialize_XML2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,36 @@
+﻿<Window x:Class="TestStackPanel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestStackPanel"
+        xmlns:search="clr-namespace:TestStackPanel.UserControls"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button Height="40" Width="45" Margin="2" Content="Insert"></Button>
+            <Button Height="40" Width="45" Margin="2" Content="Update"></Button>
+            <Button Height="40" Width="45" Margin="2" Content="Delete"></Button>
+            <Button Height="40" Width="45" Margin="2" Content="Open"></Button>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Margin="5">
+            <search:Searching></search:Searching>
+
+            
+            <TextBox Width="150" Height="30" Margin="2"></TextBox>
+            <ComboBox Width="150" Height="30" ></ComboBox>
+            <TextBox Width="150" Height="30" Margin="2"></TextBox>
+            <TextBox Width="150" Height="30" Margin="2"></TextBox>
+            <TextBox Width="150" Height="30" Margin="2"></TextBox>
+            <TextBox Width="150" Height="30" Margin="2"></TextBox>
+            <TextBox Width="150" Height="30" Margin="2"></TextBox>
+        </StackPanel>
+    </Grid>
+</Window>

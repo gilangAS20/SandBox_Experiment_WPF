@@ -1,0 +1,35 @@
+﻿<UserControl x:Class="Custom_Separate_User_Control.View.UserControls.MenuBar"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Custom_Separate_User_Control.View.UserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="30" d:DesignWidth="800">
+    <Grid Grid.Row="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+        </Grid.RowDefinitions>
+
+
+        <Menu>
+            <MenuItem Header="File" FontSize="16">
+                <MenuItem Header="New">
+                    <MenuItem Header="File" FontSize="14"></MenuItem>
+                    <MenuItem Header="Project" FontSize="14"></MenuItem>
+                </MenuItem>
+                <MenuItem Header="Open">
+                    <MenuItem Header="Project" FontSize="14"></MenuItem>
+                    <MenuItem Header="Folder" FontSize="14"></MenuItem>
+                </MenuItem>
+            </MenuItem>
+
+            <MenuItem Header="Edit" FontSize="16"></MenuItem>
+
+            <MenuItem Header="View" FontSize="16"></MenuItem>
+
+            <MenuItem Header="Lisence" FontSize="16"></MenuItem>
+        </Menu>
+    </Grid>
+</UserControl>

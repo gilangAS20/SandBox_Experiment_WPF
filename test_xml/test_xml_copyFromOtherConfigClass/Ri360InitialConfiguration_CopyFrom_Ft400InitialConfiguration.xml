@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Ri360PsrModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <robotID>123</robotID>
+  <robotName>Imager 123</robotName>
+  <robotEmail>robot123@gmail.com</robotEmail>
+</Ri360PsrModule>

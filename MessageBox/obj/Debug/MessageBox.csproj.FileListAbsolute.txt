@@ -1,0 +1,15 @@
+E:\Employee_Gilang\SandBox_Experiment\MessageBox\bin\Debug\MessageBox.exe.config
+E:\Employee_Gilang\SandBox_Experiment\MessageBox\bin\Debug\MessageBox.exe
+E:\Employee_Gilang\SandBox_Experiment\MessageBox\bin\Debug\MessageBox.pdb
+E:\Employee_Gilang\SandBox_Experiment\MessageBox\obj\Debug\MessageBox.csprojAssemblyReference.cache
+E:\Employee_Gilang\SandBox_Experiment\MessageBox\obj\Debug\MainWindow.g.cs
+E:\Employee_Gilang\SandBox_Experiment\MessageBox\obj\Debug\App.g.cs
+E:\Employee_Gilang\SandBox_Experiment\MessageBox\obj\Debug\MessageBox_MarkupCompile.cache
+E:\Employee_Gilang\SandBox_Experiment\MessageBox\obj\Debug\MessageBox_MarkupCompile.lref
+E:\Employee_Gilang\SandBox_Experiment\MessageBox\obj\Debug\MainWindow.baml
+E:\Employee_Gilang\SandBox_Experiment\MessageBox\obj\Debug\MessageBox.g.resources
+E:\Employee_Gilang\SandBox_Experiment\MessageBox\obj\Debug\MessageBox.Properties.Resources.resources
+E:\Employee_Gilang\SandBox_Experiment\MessageBox\obj\Debug\MessageBox.csproj.GenerateResource.cache
+E:\Employee_Gilang\SandBox_Experiment\MessageBox\obj\Debug\MessageBox.csproj.CoreCompileInputs.cache
+E:\Employee_Gilang\SandBox_Experiment\MessageBox\obj\Debug\MessageBox.exe
+E:\Employee_Gilang\SandBox_Experiment\MessageBox\obj\Debug\MessageBox.pdb

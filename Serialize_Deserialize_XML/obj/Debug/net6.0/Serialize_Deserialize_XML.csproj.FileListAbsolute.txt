@@ -1,0 +1,15 @@
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML\bin\Debug\net6.0\Serialize_Deserialize_XML.exe
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML\bin\Debug\net6.0\Serialize_Deserialize_XML.deps.json
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML\bin\Debug\net6.0\Serialize_Deserialize_XML.runtimeconfig.json
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML\bin\Debug\net6.0\Serialize_Deserialize_XML.dll
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML\bin\Debug\net6.0\Serialize_Deserialize_XML.pdb
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML\obj\Debug\net6.0\Serialize_Deserialize_XML.csproj.AssemblyReference.cache
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML\obj\Debug\net6.0\Serialize_Deserialize_XML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML\obj\Debug\net6.0\Serialize_Deserialize_XML.AssemblyInfoInputs.cache
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML\obj\Debug\net6.0\Serialize_Deserialize_XML.AssemblyInfo.cs
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML\obj\Debug\net6.0\Serialize_Deserialize_XML.csproj.CoreCompileInputs.cache
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML\obj\Debug\net6.0\Serialize_Deserialize_XML.dll
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML\obj\Debug\net6.0\refint\Serialize_Deserialize_XML.dll
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML\obj\Debug\net6.0\Serialize_Deserialize_XML.pdb
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML\obj\Debug\net6.0\Serialize_Deserialize_XML.genruntimeconfig.cache
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\Serialize_Deserialize_XML\obj\Debug\net6.0\ref\Serialize_Deserialize_XML.dll

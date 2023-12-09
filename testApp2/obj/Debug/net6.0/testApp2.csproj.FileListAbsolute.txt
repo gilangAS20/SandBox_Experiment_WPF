@@ -1,0 +1,15 @@
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\testApp2\bin\Debug\net6.0\testApp2.exe
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\testApp2\bin\Debug\net6.0\testApp2.deps.json
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\testApp2\bin\Debug\net6.0\testApp2.runtimeconfig.json
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\testApp2\bin\Debug\net6.0\testApp2.dll
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\testApp2\bin\Debug\net6.0\testApp2.pdb
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\testApp2\obj\Debug\net6.0\testApp2.csproj.AssemblyReference.cache
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\testApp2\obj\Debug\net6.0\testApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\testApp2\obj\Debug\net6.0\testApp2.AssemblyInfoInputs.cache
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\testApp2\obj\Debug\net6.0\testApp2.AssemblyInfo.cs
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\testApp2\obj\Debug\net6.0\testApp2.csproj.CoreCompileInputs.cache
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\testApp2\obj\Debug\net6.0\testApp2.dll
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\testApp2\obj\Debug\net6.0\refint\testApp2.dll
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\testApp2\obj\Debug\net6.0\testApp2.pdb
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\testApp2\obj\Debug\net6.0\testApp2.genruntimeconfig.cache
+D:\Employee_Gilang\SandBox_Experiment\SandBox_Experiment\testApp2\obj\Debug\net6.0\ref\testApp2.dll
