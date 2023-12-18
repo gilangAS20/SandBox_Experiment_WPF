@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\Employee_Gilang\SandBox_Experiment\TestStackPanel\obj\Debug\
+E:\Employee_Gilang\SandBox_Experiment_WPF\TestStackPanel\obj\Debug\
 TestStackPanel
 none
 false
 DEBUG;TRACE
-E:\Employee_Gilang\SandBox_Experiment\TestStackPanel\App.xaml
+E:\Employee_Gilang\SandBox_Experiment_WPF\TestStackPanel\App.xaml
 2775780048
 
 61706875342
 13-1142990016
 MainWindow.xaml;UserControls\Searching.xaml;
 
-False
+True
 

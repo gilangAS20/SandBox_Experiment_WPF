@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NhsY4jWDndav9tR6Lj/1SWTQSlcLScarMOuT2sqXjBt0SlmsmFQ8Q5ruUAfv4dGI6mKSv53vUjKYj+T/WIRqkg==",
+  "dgSpecHash": "Q1+yN9+xZnfFkI2gQYhchsYK944iMOQk+JzJv57dOc8T2HwF9AoDetxf+3nuG9IZoloGWn9K2FKWqGVXdkRGuw==",
   "success": true,
-  "projectFilePath": "E:\\Employee_Gilang\\SandBox_Experiment\\testApp2\\testApp2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\testApp2\\testApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Employee_Gilang\\SandBox_Experiment\\test_total_number\\test_total_number.csproj": {}
+    "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\test_total_number\\test_total_number.csproj": {}
   },
   "projects": {
-    "E:\\Employee_Gilang\\SandBox_Experiment\\test_total_number\\test_total_number.csproj": {
+    "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\test_total_number\\test_total_number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Employee_Gilang\\SandBox_Experiment\\test_total_number\\test_total_number.csproj",
+        "projectUniqueName": "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\test_total_number\\test_total_number.csproj",
         "projectName": "test_total_number",
-        "projectPath": "E:\\Employee_Gilang\\SandBox_Experiment\\test_total_number\\test_total_number.csproj",
+        "projectPath": "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\test_total_number\\test_total_number.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Employee_Gilang\\SandBox_Experiment\\test_total_number\\obj\\",
+        "outputPath": "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\test_total_number\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

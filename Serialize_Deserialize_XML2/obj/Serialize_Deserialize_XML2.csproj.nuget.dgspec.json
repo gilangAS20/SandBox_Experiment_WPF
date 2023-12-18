@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Employee_Gilang\\SandBox_Experiment\\Serialize_Deserialize_XML2\\Serialize_Deserialize_XML2.csproj": {}
+    "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\Serialize_Deserialize_XML2\\Serialize_Deserialize_XML2.csproj": {}
   },
   "projects": {
-    "E:\\Employee_Gilang\\SandBox_Experiment\\Serialize_Deserialize_XML2\\Serialize_Deserialize_XML2.csproj": {
+    "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\Serialize_Deserialize_XML2\\Serialize_Deserialize_XML2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Employee_Gilang\\SandBox_Experiment\\Serialize_Deserialize_XML2\\Serialize_Deserialize_XML2.csproj",
+        "projectUniqueName": "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\Serialize_Deserialize_XML2\\Serialize_Deserialize_XML2.csproj",
         "projectName": "Serialize_Deserialize_XML2",
-        "projectPath": "E:\\Employee_Gilang\\SandBox_Experiment\\Serialize_Deserialize_XML2\\Serialize_Deserialize_XML2.csproj",
+        "projectPath": "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\Serialize_Deserialize_XML2\\Serialize_Deserialize_XML2.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Employee_Gilang\\SandBox_Experiment\\Serialize_Deserialize_XML2\\obj\\",
+        "outputPath": "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\Serialize_Deserialize_XML2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -53,12 +53,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.15, 6.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "niMHuOzyW1dJOey6NsN/DFs+IF3W0PJbhTM8pIbBKDcj1rVjvHncxN96yS8NWiI6kW2T2jKUY82RM1S24cCSaw==",
+  "dgSpecHash": "1P4w77yk1WPtDqoUZvk8pyx0PL2dLdZcgqzZAzEjZ74H9j2LM92p7glCmlP7WwwGfl4NHSBSv9QuRl0tGLfUnw==",
   "success": true,
-  "projectFilePath": "E:\\Employee_Gilang\\SandBox_Experiment\\Serialize_Deserialize_XML\\Serialize_Deserialize_XML.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\Serialize_Deserialize_XML\\Serialize_Deserialize_XML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

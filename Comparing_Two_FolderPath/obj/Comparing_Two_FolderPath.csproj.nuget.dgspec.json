@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Employee_Gilang\\SandBox_Experiment\\Comparing_Two_FolderPath\\Comparing_Two_FolderPath.csproj": {}
+    "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\Comparing_Two_FolderPath\\Comparing_Two_FolderPath.csproj": {}
   },
   "projects": {
-    "E:\\Employee_Gilang\\SandBox_Experiment\\Comparing_Two_FolderPath\\Comparing_Two_FolderPath.csproj": {
+    "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\Comparing_Two_FolderPath\\Comparing_Two_FolderPath.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Employee_Gilang\\SandBox_Experiment\\Comparing_Two_FolderPath\\Comparing_Two_FolderPath.csproj",
+        "projectUniqueName": "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\Comparing_Two_FolderPath\\Comparing_Two_FolderPath.csproj",
         "projectName": "Comparing_Two_FolderPath",
-        "projectPath": "E:\\Employee_Gilang\\SandBox_Experiment\\Comparing_Two_FolderPath\\Comparing_Two_FolderPath.csproj",
+        "projectPath": "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\Comparing_Two_FolderPath\\Comparing_Two_FolderPath.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Employee_Gilang\\SandBox_Experiment\\Comparing_Two_FolderPath\\obj\\",
+        "outputPath": "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\Comparing_Two_FolderPath\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Employee_Gilang\\SandBox_Experiment\\Serialize_Deserialize_XML_list\\Serialize_Deserialize_XML_list.csproj": {}
+    "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\Serialize_Deserialize_XML_list\\Serialize_Deserialize_XML_list.csproj": {}
   },
   "projects": {
-    "E:\\Employee_Gilang\\SandBox_Experiment\\Serialize_Deserialize_XML_list\\Serialize_Deserialize_XML_list.csproj": {
+    "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\Serialize_Deserialize_XML_list\\Serialize_Deserialize_XML_list.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Employee_Gilang\\SandBox_Experiment\\Serialize_Deserialize_XML_list\\Serialize_Deserialize_XML_list.csproj",
+        "projectUniqueName": "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\Serialize_Deserialize_XML_list\\Serialize_Deserialize_XML_list.csproj",
         "projectName": "Serialize_Deserialize_XML_list",
-        "projectPath": "E:\\Employee_Gilang\\SandBox_Experiment\\Serialize_Deserialize_XML_list\\Serialize_Deserialize_XML_list.csproj",
+        "projectPath": "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\Serialize_Deserialize_XML_list\\Serialize_Deserialize_XML_list.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "E:\\Employee_Gilang\\SandBox_Experiment\\Serialize_Deserialize_XML_list\\obj\\",
+        "outputPath": "E:\\Employee_Gilang\\SandBox_Experiment_WPF\\Serialize_Deserialize_XML_list\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
