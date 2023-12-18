@@ -1,0 +1,15 @@
+E:\Employee_Gilang\SandBox_Experiment_WPF\Test_Expander\bin\Debug\Test_Expander.exe.config
+E:\Employee_Gilang\SandBox_Experiment_WPF\Test_Expander\bin\Debug\Test_Expander.exe
+E:\Employee_Gilang\SandBox_Experiment_WPF\Test_Expander\bin\Debug\Test_Expander.pdb
+E:\Employee_Gilang\SandBox_Experiment_WPF\Test_Expander\obj\Debug\Test_Expander.csprojAssemblyReference.cache
+E:\Employee_Gilang\SandBox_Experiment_WPF\Test_Expander\obj\Debug\MainWindow.g.cs
+E:\Employee_Gilang\SandBox_Experiment_WPF\Test_Expander\obj\Debug\App.g.cs
+E:\Employee_Gilang\SandBox_Experiment_WPF\Test_Expander\obj\Debug\Test_Expander_MarkupCompile.cache
+E:\Employee_Gilang\SandBox_Experiment_WPF\Test_Expander\obj\Debug\Test_Expander_MarkupCompile.lref
+E:\Employee_Gilang\SandBox_Experiment_WPF\Test_Expander\obj\Debug\MainWindow.baml
+E:\Employee_Gilang\SandBox_Experiment_WPF\Test_Expander\obj\Debug\Test_Expander.g.resources
+E:\Employee_Gilang\SandBox_Experiment_WPF\Test_Expander\obj\Debug\Test_Expander.Properties.Resources.resources
+E:\Employee_Gilang\SandBox_Experiment_WPF\Test_Expander\obj\Debug\Test_Expander.csproj.GenerateResource.cache
+E:\Employee_Gilang\SandBox_Experiment_WPF\Test_Expander\obj\Debug\Test_Expander.csproj.CoreCompileInputs.cache
+E:\Employee_Gilang\SandBox_Experiment_WPF\Test_Expander\obj\Debug\Test_Expander.exe
+E:\Employee_Gilang\SandBox_Experiment_WPF\Test_Expander\obj\Debug\Test_Expander.pdb
