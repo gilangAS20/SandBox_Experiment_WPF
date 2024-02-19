@@ -1,0 +1,15 @@
+E:\Employee_Gilang\SandBox_Experiment_WPF\Learn_MVVM_1\bin\Debug\Learn_MVVM_1.exe.config
+E:\Employee_Gilang\SandBox_Experiment_WPF\Learn_MVVM_1\bin\Debug\Learn_MVVM_1.exe
+E:\Employee_Gilang\SandBox_Experiment_WPF\Learn_MVVM_1\bin\Debug\Learn_MVVM_1.pdb
+E:\Employee_Gilang\SandBox_Experiment_WPF\Learn_MVVM_1\obj\Debug\Learn_MVVM_1.csprojAssemblyReference.cache
+E:\Employee_Gilang\SandBox_Experiment_WPF\Learn_MVVM_1\obj\Debug\MainWindow.g.cs
+E:\Employee_Gilang\SandBox_Experiment_WPF\Learn_MVVM_1\obj\Debug\App.g.cs
+E:\Employee_Gilang\SandBox_Experiment_WPF\Learn_MVVM_1\obj\Debug\Learn_MVVM_1_MarkupCompile.cache
+E:\Employee_Gilang\SandBox_Experiment_WPF\Learn_MVVM_1\obj\Debug\Learn_MVVM_1_MarkupCompile.lref
+E:\Employee_Gilang\SandBox_Experiment_WPF\Learn_MVVM_1\obj\Debug\MainWindow.baml
+E:\Employee_Gilang\SandBox_Experiment_WPF\Learn_MVVM_1\obj\Debug\Learn_MVVM_1.g.resources
+E:\Employee_Gilang\SandBox_Experiment_WPF\Learn_MVVM_1\obj\Debug\Learn_MVVM_1.Properties.Resources.resources
+E:\Employee_Gilang\SandBox_Experiment_WPF\Learn_MVVM_1\obj\Debug\Learn_MVVM_1.csproj.GenerateResource.cache
+E:\Employee_Gilang\SandBox_Experiment_WPF\Learn_MVVM_1\obj\Debug\Learn_MVVM_1.csproj.CoreCompileInputs.cache
+E:\Employee_Gilang\SandBox_Experiment_WPF\Learn_MVVM_1\obj\Debug\Learn_MVVM_1.exe
+E:\Employee_Gilang\SandBox_Experiment_WPF\Learn_MVVM_1\obj\Debug\Learn_MVVM_1.pdb

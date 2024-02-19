@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Grid_Splitter", "Test_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Expander", "Test_Expander\Test_Expander.csproj", "{4E61685B-60B0-4752-8CD0-AC90D2FB1796}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn_MVVM_1", "Learn_MVVM_1\Learn_MVVM_1.csproj", "{FEE694AC-55C5-44C8-81B5-A290ED3D0504}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -133,6 +135,10 @@ Global
 		{4E61685B-60B0-4752-8CD0-AC90D2FB1796}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E61685B-60B0-4752-8CD0-AC90D2FB1796}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E61685B-60B0-4752-8CD0-AC90D2FB1796}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE694AC-55C5-44C8-81B5-A290ED3D0504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE694AC-55C5-44C8-81B5-A290ED3D0504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE694AC-55C5-44C8-81B5-A290ED3D0504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE694AC-55C5-44C8-81B5-A290ED3D0504}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -150,6 +156,7 @@ Global
 		{FC61867E-446B-41AE-B7C2-73272E8B5927} = {B83C13AA-3583-465F-8110-A08FD298AD43}
 		{78A0AB22-D038-4CA1-A894-75AC7CB13BF2} = {B83C13AA-3583-465F-8110-A08FD298AD43}
 		{4E61685B-60B0-4752-8CD0-AC90D2FB1796} = {B83C13AA-3583-465F-8110-A08FD298AD43}
+		{FEE694AC-55C5-44C8-81B5-A290ED3D0504} = {B83C13AA-3583-465F-8110-A08FD298AD43}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {84E3B9B5-C6FE-48B9-8B80-77F45DB7C5E3}
