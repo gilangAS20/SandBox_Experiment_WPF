@@ -14,33 +14,11 @@ namespace Learn_MVVM_1.ViewModel
     class MainWindowViewModel : ViewModelBase
     {
         public ObservableCollection<Item> Items { get; set; }
+        public RelayCommand AddCommand => new RelayCommand(execute => AddItem());
         public MainWindowViewModel()
         {
             Items = new ObservableCollection<Item>();
-
-            Items.Add(new Item
-            {
-                Name = "Oreo",
-                ID = "0001",
-                Quantity = 432,
-                DateUpdate = DateTime.Now
-            });
-
-            Items.Add(new Item
-            {
-                Name = "Marimas",
-                ID = "0002",
-                Quantity = 43,
-                DateUpdate = DateTime.Now
-            });
-
-            Items.Add(new Item
-            {
-                Name = "Buah Naga",
-                ID = "0003",
-                Quantity = 318,
-                DateUpdate = DateTime.Now
-            });
+       
         }
 
 
@@ -57,7 +35,23 @@ namespace Learn_MVVM_1.ViewModel
             }
         }
 
+        #region Buttons Function
+        private void AddItem()
+        {
+            Items.Add(new Item
+            {
+                Name = "NEW ITEM",
+                ID = "XXX",
+                Quantity = 0,
+                DateUpdate = DateTime.Now
+            });
+        }
 
+        private void RemoveItem()
+        {
+
+        }
+        #endregion
 
     }
 }
