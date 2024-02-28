@@ -24,8 +24,15 @@ namespace Learn_MVVM_1
         public MainWindow()
         {
             InitializeComponent();
-            MainWindowViewModel vm = new MainWindowViewModel();
+
+            string namaBarang = NamaBarang.ToString();
+            string idBarang = IdBarang.ToString();
+            int jumlahBarang = Convert.ToInt32(JumlahBarang.ToString());
+            DateTime tanggalUpdate = Convert.ToDateTime(TanggalUpdate.ToString());
+
+            MainWindowViewModel vm = new MainWindowViewModel(namaBarang, idBarang, jumlahBarang, tanggalUpdate);
             DataContext = vm;
+            
         }
     }
 }

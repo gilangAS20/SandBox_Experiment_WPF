@@ -15,8 +15,20 @@ namespace Learn_MVVM_1.ViewModel
     {
         public ObservableCollection<Item> Items { get; set; }
         public RelayCommand AddCommand => new RelayCommand(execute => AddItem());
-        public MainWindowViewModel()
+        public RelayCommand RemoveCommand => new RelayCommand(execute => RemoveItem(), canExecute => SelectedItem != null);
+        public RelayCommand SaveCommand => new RelayCommand(execute => SaveItem(), canExecute => CanSave());
+
+        private string _name;
+        private string _ID;
+        private int _quantity;
+        private DateTime _createTime;
+        public MainWindowViewModel(string name, string ID, int quantity, DateTime createTime)
         {
+            _name = name;
+            _ID = ID;
+            _quantity = quantity;
+            _createTime = createTime;
+
             Items = new ObservableCollection<Item>();
        
         }
@@ -40,16 +52,31 @@ namespace Learn_MVVM_1.ViewModel
         {
             Items.Add(new Item
             {
-                Name = "NEW ITEM",
-                ID = "XXX",
-                Quantity = 0,
-                DateUpdate = DateTime.Now
+                Name = _name,
+                ID = _ID,
+                Quantity = _quantity,
+                DateUpdate = _createTime
             });
         }
 
         private void RemoveItem()
         {
+            var choosenData = SelectedItem;
 
+            if(choosenData != null)
+            {
+                Items.Remove(choosenData);
+            }
+        }
+
+        private void SaveItem()
+        {
+            // logic to save
+        }
+
+        private bool CanSave()
+        {
+            return true; // always can save
         }
         #endregion
 

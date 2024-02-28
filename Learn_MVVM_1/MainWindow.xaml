@@ -87,6 +87,7 @@
                 <!--Inputan Nama Barang-->
                 <Label Content="Nama Barang"></Label>
                 <TextBox 
+                    Name="NamaBarang"
                     Margin="5,0,5,5"
                     Text="{Binding SelectedItem.Name, UpdateSourceTrigger=PropertyChanged}">
                 </TextBox>
@@ -94,6 +95,7 @@
                 <!--Inputan ID Barang-->
                 <Label Content="ID Barang"></Label>
                 <TextBox 
+                    Name="IdBarang"
                     Margin="5,0,5,5"
                     Text="{Binding SelectedItem.ID, UpdateSourceTrigger=PropertyChanged}">
                 </TextBox>
@@ -101,6 +103,7 @@
                 <!--Inputan Jumlah Barang-->
                 <Label Content="Jumlah Barang"></Label>
                 <TextBox 
+                    Name="JumlahBarang"
                     Margin="5,0,5,5"
                     Text="{Binding SelectedItem.Quantity, UpdateSourceTrigger=PropertyChanged}">
                 </TextBox>
@@ -108,6 +111,7 @@
                 <!--Inputan Tanggal Terakhir Update-->
                 <Label Content="Tanggal Update"></Label>
                 <TextBox 
+                    Name="TanggalUpdate"
                     Margin="5,0,5,5"
                     Text="{Binding SelectedItem.DateUpdate, UpdateSourceTrigger=PropertyChanged}">
                 </TextBox>
